@@ -1,5 +1,5 @@
 # 8puzzle
-A Simple 8-puzzle implementation in Java
+A Simple [8-puzzle](https://en.wikipedia.org/wiki/15_puzzle) implementation in Java
 
 #### How to Run
 ```text
